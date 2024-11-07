@@ -31,7 +31,7 @@ I'm a PhD student at INSA-Strasbourg specializing in AI and explainability, part
 - Open-source projects in energy-efficient AI or AI safety
 
 ### 📫 How to Reach Me
-- [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/slimane-arbaoui-570bb8281/))
+- [LinkedIn](https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/slimane-arbaoui-570bb8281/))
 - [Email](s.arbaoui@esi-sba.dz)
 
 ### ⚡ Fun Fact
